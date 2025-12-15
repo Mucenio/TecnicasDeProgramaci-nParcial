@@ -1,0 +1,16 @@
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.csproj.AssemblyReference.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.Properties.Resources.resources
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.csproj.GenerateResource.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.csproj.CoreCompileInputs.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\HeladeriaTITO.exe.config
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\HeladeriaTITO.exe
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\HeladeriaTITO.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\Heladeria.Entidad.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\Heladeria.Logica.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\Heladeria.Entidad.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\bin\Debug\Heladeria.Logica.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\Heladeri.F6E4097B.Up2Date
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.exe
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.exe.config
+C:\Users\Emili\OneDrive\Escritorio\Parcial\HeladeriaTITO\obj\Debug\HeladeriaTITO.Form1.resources

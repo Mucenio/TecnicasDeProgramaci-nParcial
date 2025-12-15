@@ -1,0 +1,9 @@
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\obj\Debug\Heladeria.Logica.csproj.AssemblyReference.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\obj\Debug\Heladeria.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\bin\Debug\Heladeria.Logica.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\bin\Debug\Heladeria.Logica.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\bin\Debug\Heladeria.Entidad.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\bin\Debug\Heladeria.Entidad.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\obj\Debug\Heladeri.C6679B56.Up2Date
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\obj\Debug\Heladeria.Logica.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Logica\obj\Debug\Heladeria.Logica.pdb

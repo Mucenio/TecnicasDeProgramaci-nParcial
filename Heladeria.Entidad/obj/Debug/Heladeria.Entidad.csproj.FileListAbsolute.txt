@@ -1,0 +1,6 @@
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Entidad\bin\Debug\Heladeria.Entidad.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Entidad\bin\Debug\Heladeria.Entidad.pdb
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Entidad\obj\Debug\Heladeria.Entidad.csproj.AssemblyReference.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Entidad\obj\Debug\Heladeria.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Entidad\obj\Debug\Heladeria.Entidad.dll
+C:\Users\Emili\OneDrive\Escritorio\Parcial\Heladeria.Entidad\obj\Debug\Heladeria.Entidad.pdb
